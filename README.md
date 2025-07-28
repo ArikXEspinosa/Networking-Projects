@@ -46,7 +46,6 @@ How to simulate domain join process on client PCs
 How to troubleshoot DNS and domain issues
 
 Challenges I Faced:
-
 Ensuring correct DNS records for domain resolution
 Configuring client PCs to properly register with the domain
 Simulating domain join in Packet Tracer without full Active Directory support
