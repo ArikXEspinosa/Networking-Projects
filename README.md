@@ -21,6 +21,7 @@ How to let VLANs talk to each other
 How to fix problems when the network doesn’t work right
 
 Challenges I Faced:
+
 NAT wasnt't giving internet access until I fixed the access list
 Some devices weren't connecting because of port issues.
 Vlans didnt work because the trunk ports weren't set up
@@ -46,6 +47,7 @@ How to simulate domain join process on client PCs
 How to troubleshoot DNS and domain issues
 
 Challenges I Faced:
+
 Ensuring correct DNS records for domain resolution
 Configuring client PCs to properly register with the domain
 Simulating domain join in Packet Tracer without full Active Directory support
