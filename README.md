@@ -24,3 +24,4 @@ Challenges I Faced:
 NAT wasnt't giving internet access until I fixed the access list
 Some devices weren't connecting because of port issues.
 Vlans didnt work because the trunk ports weren't set up
+[School District Network.zip](https://github.com/user-attachments/files/21470808/School.District.Network.zip)
