@@ -28,9 +28,9 @@ Vlans didnt work because the trunk ports weren't set up
 
 Project Overview 
 - DNS and Domain Simulation (Cisco Packet Tracer)
-- I created a network simulation to mimic how a DNS server and domain work together. This involved setting up a DNS server to resolve domain names for client PCs and configuring client devices to join the domain, simulating a real-world corporate or school network environment.
+  I created a network simulation to mimic how a DNS server and domain work together. This involved setting up a DNS server to resolve domain names for client PCs and configuring client devices to join the domain, simulating a real-world corporate or school network environment.
 
-- Tools & Skills Used:
+  Tools & Skills Used:
 
 Cisco Packet Tracer
 DNS Server Configuration
